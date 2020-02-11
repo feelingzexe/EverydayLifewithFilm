@@ -368,7 +368,7 @@ center {
 }
 
 .big:hover, .medium:hover {
-  color: #035E7B;
+  color: #ed1c24;
 }
 
 @media (max-width: 960px) {
@@ -456,7 +456,7 @@ center {
 }
 
 .post-stats p.stat i {
-  color: #035E7B;
+  color: #ed1c24;
   font-size: 18px;
   position: absolute;
   top: -5px;
@@ -471,7 +471,7 @@ center {
   font-family: -apple-system, BlinkMacSystemFont, "Sarabun", sans-serif;
   font-size: 11px;
   text-transform: uppercase;
-  color: #035E7B;
+  color: #ed1c24;
   text-decoration: none;
   letter-spacing: .7px;
   display: inline-block;
@@ -508,7 +508,7 @@ blockquote p {
   line-height: 30px !important;
   background-color: #f6f6f6 !important;
   padding: 18px 28px !important;
-  border-left: 6px solid #035E7B !important;
+  border-left: 6px solid #ed1c24 !important;
 }
 
 @media (max-width: 480px) {
@@ -534,7 +534,7 @@ blockquote p span {
   font-size: 11px;
   text-decoration: none;
   text-align: center;
-  border: 1px solid #035E7B;
+  border: 1px solid #ed1c24;
   padding: 14px 44px;
   display: inline-block;
   margin-top: 36px;
@@ -546,7 +546,7 @@ blockquote p span {
 }
 
 .btn:hover {
-  background-color: #035E7B;
+  background-color: #ed1c24;
   color: #fff;
 }
 
@@ -671,11 +671,11 @@ blockquote p span {
 }
 
 .navbar .main-menu > li a.active {
-  color: #035E7B;
+  color: #ed1c24;
 }
 
 .navbar .main-menu > li a:hover {
-  color: #035E7B;
+  color: #ed1c24;
   padding: 34px 0;
 }
 
@@ -745,7 +745,7 @@ blockquote p span {
 }
 
 .navbar .social-icons a:hover {
-  color: #035E7B;
+  color: #ed1c24;
 }
 
 @media (max-width: 480px) {
@@ -761,7 +761,7 @@ blockquote p span {
 }
 
 .navbar .social-icons .search:hover {
-  color: #035E7B;
+  color: #ed1c24;
 }
 
 .navbar .social-icons .search .search-bar {
@@ -816,7 +816,7 @@ blockquote p span {
 }
 
 .navbar .social-icons .search .search-bar .close-icon:hover {
-  color: #035E7B;
+  color: #ed1c24;
 }
 
 /* LOGO */
@@ -1667,7 +1667,7 @@ blockquote p span {
 }
 
 .name-color {
-  color: #035E7B;
+  color: #ed1c24;
 }
 
 .sidebar-sec {
@@ -1690,7 +1690,7 @@ blockquote p span {
 }
 
 .social-icos a:hover {
-  color: #035E7B;
+  color: #ed1c24;
 }
 
 .subscribe-input {
@@ -1841,7 +1841,7 @@ blockquote p span {
 }
 
 .sm-post-title:hover {
-  color: #035E7B;
+  color: #ed1c24;
 }
 
 @media (max-width: 970px) {
@@ -1873,7 +1873,7 @@ blockquote p span {
 }
 
 .categories-sec .category:hover {
-  color: #035E7B;
+  color: #ed1c24;
 }
 
 .categories-sec .category:last-child {
@@ -1902,7 +1902,7 @@ blockquote p span {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: #035E7B;
+  background-color: #ed1c24;
   display: block;
   opacity: 0;
 }
@@ -2040,7 +2040,7 @@ footer .portgasthemes {
 }
 
 footer .portgasthemes i {
-  color: #035E7B;
+  color: #ed1c24;
 }
 
 footer .portgasthemes a {
@@ -2049,7 +2049,7 @@ footer .portgasthemes a {
 }
 
 footer .portgasthemes a:hover {
-  color: #035E7B;
+  color: #ed1c24;
 }
 
 footer .social-icos a {
@@ -2121,7 +2121,7 @@ footer .social-icos a {
 }
 
 .single-post .post-meta .post-author a {
-  color: #035E7B;
+  color: #ed1c24;
   text-decoration: none;
 }
 
@@ -2150,7 +2150,7 @@ footer .social-icos a {
 }
 
 .single-post .post-meta .social-icons a:hover {
-  color: #035E7B;
+  color: #ed1c24;
 }
 
 .single-post .post-meta .social-icons p {
@@ -2173,7 +2173,7 @@ footer .social-icos a {
 }
 
 .post-author-sec a:hover {
-  color: #035E7B;
+  color: #ed1c24;
 }
 
 .post-author-sec img {
@@ -2323,7 +2323,7 @@ footer .social-icos a {
 }
 
 .comments-section .post-comment-text .reply-text:hover {
-  color: #035E7B;
+  color: #ed1c24;
 }
 
 /* LEAVE A COMMENT SECTION */
@@ -2440,7 +2440,7 @@ textarea {
 }
 
 .about-me .post-text .social-icons a:hover {
-  color: #035E7B;
+  color: #ed1c24;
 }
 
 .about-me .post-text .social-icons .follow-me {
@@ -2666,7 +2666,7 @@ textarea {
 
 /* DROPDOWN LI HOVER COLOR */
 .slicknav_nav .slicknav_row:hover a {
-  color: #035E7B;
+  color: #ed1c24;
 }
 
 /* LINKS COLOR / PADDING */
@@ -2742,7 +2742,7 @@ ul.slicknav_nav li a {
 }
 
 ul.slicknav_nav li a:hover {
-  color: #035E7B;
+  color: #ed1c24;
   background-color: #080808;
 }
 
