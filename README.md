@@ -16,9 +16,8 @@ Made by Peerawit Pharkdeepinyo.
 
 ## Screenshots
 <p align="center">
-<img src="Screenshot_20191106-201625.jpg" width="300" height="600">
-<img src="Screenshot_20191106-201633.jpg" width="300" height="600">
-<img src="Screenshot_20191106-201644.jpg" width="300" height="600">
-<img src="Screenshot_20191106-201659.jpg" width="300" height="600">
-<img src="Screenshot_20191106-201708.jpg" width="300" height="600">
+<img src="screenshots/Screenshot_1" width="626" height="478">
+<img src="screenshots/Screenshot_2" width="626" height="478">
+<img src="screenshots/Screenshot_3" width="626" height="478">
+<img src="screenshots/Screenshot_4" width="626" height="478">
 </p>
