@@ -7,6 +7,7 @@
     Web Blog for Education Purpose, Developed by Uttaradit School Student
     <br />
     <a href="https://utd.ac.th/" target="_blank"><strong>Uttaradit School »</strong></a><br>
+    <a href="https://feelingzexe.github.io/everydaylifewithfilm" target="_blank"><strong>Website Preview »</strong></a><br>
   </p>
 </p>
 
